@@ -32,11 +32,15 @@ Script does the following:
 ## NOTES:
 
 ##### Script can be modified to install Java no matter if a previous version is installed.
-##### Change overall IF statement to **_IF TRUE_**
-##### Ticketing verbage may need to be changed as needed
+##### Change overall IF statement to **_IF TRUE_**.  Ticketing verbage may need to be changed as needed
+
+
 
 ##### networkn in IRC asked why the script exits if it is a server
 ##### We currently do our server updates manually, if you wish to have this script run on servers either remove steps 1 through 3 or disable the functions
+
+
+
 
 I am not affiliated with Labtech Software. Please use these at your own risk. 
 
