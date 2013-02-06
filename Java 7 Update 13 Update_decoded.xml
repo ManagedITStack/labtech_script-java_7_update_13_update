@@ -483,7 +483,7 @@ Please investigate</Param5>
     <Action>2</Action>
     <FunctionId>15</FunctionId>
     <Param1>taskkill.exe</Param1>
-    <Param2>/F /IM iexplore.exe /IM firefox.exe /IM chrome.exe /IM opera.exe /IM jqs.exe /IM jusched.exe /IM msiexec.exe /IM rundll32.exe</Param2>
+    <Param2>/F /IM iexplore.exe /IM firefox.exe /IM chrome.exe /IM opera.exe /IM jqs.exe /IM jusched.exe</Param2>
     <Param3>0</Param3>
     <Param4 />
     <Param5 />
